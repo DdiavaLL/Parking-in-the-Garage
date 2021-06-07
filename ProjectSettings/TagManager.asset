@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Other
+  - Roof
+  - Car1
+  - Car2
+  - Garage
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Garage
+  - Other
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: car
+    uniqueID: 3430021641
+    locked: 0
+  - name: Garage
+    uniqueID: 1514063703
+    locked: 0
+  - name: Other
+    uniqueID: 2604186113
+    locked: 0
+  - name: Roof
+    uniqueID: 3750437291
+    locked: 0
